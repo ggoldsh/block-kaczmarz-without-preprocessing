@@ -1,6 +1,6 @@
 # Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing
 
-This repository contains code for the experiments in the ICML submission "Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms
+This repository contains code for the experiments in the manuscript "Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms
 without Preprocessing."
 
 The code consists of two IPython notebooks, one for the experiments with random matrices and the other for the experiments involving natural gradient directions.
