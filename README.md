@@ -1,7 +1,7 @@
 # Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing
 
 This repository contains code for the experiments in the manuscript "Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms
-without Preprocessing," available as a preprint at https://arxiv.org/pdf/2502.00882.
+without Preprocessing," available as a preprint at https://arxiv.org/abs/2502.00882.
 
 The code consists of two IPython notebooks, one for the experiments with random matrices and the other for the experiments involving natural gradient directions.
 The notebooks can be run for example with Jupyter; see https://jupyter.org/install for installation instructions.
